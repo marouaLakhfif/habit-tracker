@@ -1,4 +1,4 @@
-FROM php:8.2-apachei
+FROM php:8.2-apache
 
 RUN apt-get update && apt-get install -y \
     git curl zip unzip libpng-dev libonig-dev libxml2-dev libsqlite3-dev \
