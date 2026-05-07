@@ -1,0 +1,14 @@
+/vendor
+/node_modules
+.env
+.DS_Store
+/storage/*.key
+.idea
+.vscode
+*.sql
+*.sqlite
+composer.lock
+package-lock.json
+yarn.lock
+/public/storage
+Dockerfile.save
